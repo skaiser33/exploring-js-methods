@@ -1,1 +1,1 @@
-# exploring-js-methods
+Exploring various array methods and explaining best use cases for each, with examples.
